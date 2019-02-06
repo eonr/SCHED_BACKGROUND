@@ -10,4 +10,12 @@ just like <b>SCHED_OTHER</b> processes.
 
 #### <i> Implementation details/ instructions in report.pdf</i>
 ### Sample results
-##### 1. Running a background process with 2 normal processes
+##### 1. Running a background process with 2 normal processes <br>
+
+![alt text](https://github.com/eonr/sched_background/blob/master/sample_results/e1.png "2 normal vs 1 bg")
+
+##### 2. Running a background process with 2 FIFO processes <br>
+
+![alt text](https://github.com/eonr/sched_background/blob/master/sample_results/e2.png "2 FIFO vs 1 bg")
+
+#### <i> More results in report.pdf </i>
